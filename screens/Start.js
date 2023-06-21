@@ -117,7 +117,7 @@ const Start = ({ navigation, router }) => {
           &copy; Created by{' '}
           <Text
             style={{ textDecorationLine: 'underline' }}
-            onPress={() => Linking.openURL('http://google.com')}
+            onPress={() => Linking.openURL('https://github.com/fazliddinxdev/biomertik-bmi/tree/main')}
           >
             Xoliqov Fazliddin
           </Text>{' '}
